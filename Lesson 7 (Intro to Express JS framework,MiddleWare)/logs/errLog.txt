@@ -1,0 +1,2 @@
+20231009	17:14:15	9036c250-0876-43fe-b283-2bba272e5f29	Error: not allowed by CORs
+20231009	17:14:15	18ac9577-43ec-4e8d-856d-0b9cf571afb8	Error: not allowed by CORs

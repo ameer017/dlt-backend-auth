@@ -1,0 +1,7 @@
+20231009	17:14:15	9036c250-0876-43fe-b283-2bba272e5f29	Error: not allowed by CORs
+20231009	17:14:15	18ac9577-43ec-4e8d-856d-0b9cf571afb8	Error: not allowed by CORs
+20231010	12:59:45	c60460bd-ed9d-425e-86ad-9ab23e513398	Error: ENOENT: no such file or directory, stat 'C:\Users\aaa\OneDrive\Desktop\my-mWeb\Node Js Courses\Lesson 8\Routes\views\index.html'
+20231010	12:59:45	02bb0592-6d24-4ecc-9bbc-868161cee8b9	Error: ENOENT: no such file or directory, stat 'C:\Users\aaa\OneDrive\Desktop\my-mWeb\Node Js Courses\Lesson 8\Routes\views\index.html'
+20231010	12:59:51	154aea67-1b46-48b8-89c0-f4559fc379cb	Error: ENOENT: no such file or directory, stat 'C:\Users\aaa\OneDrive\Desktop\my-mWeb\Node Js Courses\Lesson 8\Routes\views\new-page.html'
+20231010	14:05:23	bf9205ed-5505-48f1-b735-f9aefa98df23	Error: ENOENT: no such file or directory, stat 'C:\Users\aaa\OneDrive\Desktop\my-mWeb\Node Js Courses\Lesson 8\Routes\views\new-page.html'
+20231010	16:27:13	5a1a064c-f7ad-4f2f-98c3-954437a7a8bc	SyntaxError: Unexpected token } in JSON at position 16
